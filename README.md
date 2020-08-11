@@ -1,2 +1,2 @@
 # markdown-preview
-a very simple amateur level markdown previewer
+a very simple markdown previewer
